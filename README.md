@@ -4,11 +4,11 @@ for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 29 mins         ██████████░░░░░░░░░░░░░░░   39.44 %
-TypeScript   2 hrs 11 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Bash         29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-JSON         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-HTML         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JavaScript   2 hrs 29 mins         ██████████░░░░░░░░░░░░░░░   40.37 %
+TypeScript   2 hrs 8 mins          ████████▓░░░░░░░░░░░░░░░░   34.73 %
+Bash         44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+JSON         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+HTML         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
